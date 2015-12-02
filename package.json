@@ -1,0 +1,16 @@
+{
+  "title": "WhatsMath",
+  "name": "whatsmath",
+  "version": "0.0.1",
+  "description": "MathJax based math rendering for WhatsApp Web.",
+  "main": "index.js",
+  "author": "Maximilian Koehl",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL",
+  "keywords": [
+    "jetpack"
+  ]
+}
